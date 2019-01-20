@@ -1,4 +1,4 @@
-# Reinforcement Learning - Actor Critic Method - Deep Deterministic Polict Gradient
+# Reinforcement Learning - Actor Critic Method - Deep Deterministic Policy Gradient
 
 Deep Deterministic Polict Gradient Actor-Critic Method is applied to solve collobaration and competition problem. Agent is trained to learn to coloobarate and compete.
 
