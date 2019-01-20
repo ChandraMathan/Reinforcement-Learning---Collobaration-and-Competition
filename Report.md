@@ -2,7 +2,7 @@
 # Description of the Implementation
 
 Install the dependencies as mentioned in README section.
-Run 'Collaboration and Competition_Solution.ipyb' file to train the agent.
+Run 'Collaboration and Competition_Solution.ipynb' file to train the agent.
 
 # Learning Algorithm
 
@@ -34,7 +34,7 @@ There are two neural networks, one for actor and one for critic. Each Neural net
 
 
 # Plot of Rewards
-![Result](Result.png)
+![Result](Results.png)
 
 # Ideas for Future Work 
 Neural network architecture can be modified and also hyperparameters can be modified to improve training rate.
