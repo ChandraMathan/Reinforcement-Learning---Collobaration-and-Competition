@@ -36,5 +36,7 @@ There are two neural networks, one for actor and one for critic. Each Neural net
 # Plot of Rewards
 ![Result](Results.png)
 
+Number of episodes required was roughly 1000+. At the start of the training, Learning rate and noise parameters was high. However, large fluctuations were observed in the rewards. Used this initial weight to continue training with lower learning rates and noise parameter.
+
 # Ideas for Future Work 
 Neural network architecture can be modified and also hyperparameters can be modified to improve training rate.
